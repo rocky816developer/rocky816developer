@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi! Nice to see you. 👋
 
+Welcome to my page!
+I am a Fullstack developer and I've been developing for 5+ years.
+As a Full Stack Developer with expertise in AWS, React, Next.js and Vue and Nuxt.js.
+I am also expert in Laravel and ASP.NET development.
+I specialize in developing scalable and responsive web applications using cloud-based solutions. 
+With extensive experience in frontend development, I have honed my skills in creating dynamic and user-friendly interfaces that improve user experience.
 <!--
 **rocky816developer/rocky816developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

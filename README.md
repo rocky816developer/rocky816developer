@@ -7,9 +7,7 @@ I am also expert in Laravel and ASP.NET development. <br>
 I specialize in developing scalable and responsive web applications using cloud-based solutions. <br> 
 With extensive experience in frontend development, I have honed my skills in creating dynamic and user-friendly interfaces that improve user experience. <br>
 
-Skills I can offer: 
-
-<h1 align="center">Awesome GitHub Profile README
+<h1 align="center">My Skills
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>

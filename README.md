@@ -1,4 +1,4 @@
-### Hi! Nice to see you. 👋
+### <h1>Hi! Nice to see you.</h1> 👋
 
 Welcome to my page!
 I am a Fullstack developer and I've been developing for 5+ years.

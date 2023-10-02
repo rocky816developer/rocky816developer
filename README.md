@@ -74,38 +74,6 @@ With extensive experience in frontend development, I have honed my skills in cre
 </p>
 
 <h3 id="user-content-i-participated-in-developing" dir="auto"><a class="heading-link" href="#i-participated-in-developing">I participated in developing:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<ul dir="auto">
-  <li>
-    <a href="https://fluentc.io" rel="nofollow">FluentC</a>
-    <br>
-    <span>FluentC is a powerful platform that allows you to easily configure apps, websites, and web applications to enable your content to be translated into up to 75 common languages. With our platform, you can make your content accessible to a global audience with ease</span>
-  </li>
-  <li>
-    <a href="https://ollacart.com" rel="nofollow">OllaCart</a>
-    <br>
-    <span>Online shopping platform to collect products in one place for a later purchase while monitoring price, discounts, and comparable products.</span>
-  </li>
-  <li>
-    <a href="https://dobbys.io" rel="nofollow">Dobbys</a>
-    <br>
-    <span>Dobbys is a family-friendly NFT project programmatically, randomly generated dinosaurs.</span>
-  </li>
-  <li>
-    <a href="https://moonhub.ai" rel="nofollow">Moonhub</a>
-    <br>
-    <span>Moonhub combines cutting-edge AI and automation solutions with recruiting and HR expertise to help you hire, retain, and manage world-class people.</span>
-  </li>
-  <li>
-    <a href="https://www.colochousing.com" rel="nofollow">Coloc House</a>
-    <br>
-    <span>Rooms for rent in shared houses and apartments in Belgium, tailored for young professionals.</span>
-  </li>
-  <li>
-    <a href="https://www.moivon.com" rel="nofollow">Moivon</a>
-    <br>
-    <span>Moivon is your ultimate destination for uncovering a carefully curated list of art, creative, and design events, providing you with the perfect platform to explore and fall in love with each unique experience.</span>
-  </li>
-</ul>
 <h3 id="user-content--my-github-stats" dir="auto"><a class="heading-link" href="#-my-github-stats">👀 My github Stats<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <div dir="auto">
   <p align="center" dir="auto">
